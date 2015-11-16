@@ -1,0 +1,7 @@
+build/
+.sconsign.dblite
+*.swp
+*.swo
+*~
+*.pyc
+__pycache__/
