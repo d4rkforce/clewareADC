@@ -24,11 +24,13 @@ Install
 -------
 
 1. Download clewareADC::
-		git clone https://github.com/d4rkforce/clewareADC.git
-		cd clewareADC
+
+    git clone https://github.com/d4rkforce/clewareADC.git
+    cd clewareADC
 
 2. Install using distutils::
-		python setup.py install
+
+    python setup.py install
 
 Usage
 -----
