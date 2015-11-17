@@ -35,7 +35,7 @@ Install
 Usage
 -----
 The folowing code will list all connected USB-ADC 2 devices, connect to the first device it finds
-and print ten values from both channels, scaled with 13.621V:
+and print ten values from both channels, scaled by 13.621V:
 
 .. code:: python
 
