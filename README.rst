@@ -28,7 +28,7 @@ Install
     git clone https://github.com/d4rkforce/clewareADC.git
     cd clewareADC
 
-2. Install using distutils::
+2. Install using setuptools::
 
     python setup.py install
 
